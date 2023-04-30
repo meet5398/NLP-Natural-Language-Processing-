@@ -29,7 +29,10 @@ we are using findall function for matching data with our pattern
 ![image](https://user-images.githubusercontent.com/108387640/235370776-8d39fa89-d890-4697-9754-0ba5f7de38f8.png)
 
 * Extracting Email Address 
+<br>
 ![image](https://user-images.githubusercontent.com/108387640/235370955-62246a8b-0762-4189-a5b8-b217a3a358bd.png)
+
 here we are matching text with our designed pattern for mail that is '*[a-z0-9A-z_]*@[a-z0-9A-z_]*\.[a-zA-Z]*' <br> here a-z: means any character between a to z, simillar for A-Z and 0-9.<br>
+
 
 ** you can view my full content of regular expression in my jupyter file : <br> https://github.com/meet5398/NLP-Natural-Language-Processing-/blob/57611b2b14c58a205c3f93a264daa88f31acc341/regular%20expression%20in%20NLP.ipynb
