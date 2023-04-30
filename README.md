@@ -19,16 +19,16 @@
 ## **Regular Expression in NLP**
 * Regular expression (regex) is a pattern-matching language used to manipulate and extract text data in NLP. Regular expressions consist of a sequence of characters and metacharacters that represent a particular pattern in a text string.
 * For example, regular expressions can be used to extract all email addresses or phone numbers from a text document, or to remove all punctuation marks or stop words from a piece of text
-* Extracting phone Numbers 
+**Extracting phone Numbers**
 
 ![image](https://user-images.githubusercontent.com/108387640/235370494-d71dc92b-e200-4504-8fb0-e4c71b83cc34.png)
 as mentioned above in code we are extracting 10 digits, using '\d' we can extract digits and {n} here in place of n you can replace any number that much digits you want .<br>
 we are using findall function for matching data with our pattern
 
-* we can match any particular pattern for example 
+**Matching Random Pattern**
 ![image](https://user-images.githubusercontent.com/108387640/235370776-8d39fa89-d890-4697-9754-0ba5f7de38f8.png)
 
-* Extracting Email Address 
+**Extracting Email Address**
 
 ![image](https://user-images.githubusercontent.com/108387640/235371584-c403348a-d2d5-42bd-9d71-bf7c7c29757b.png)
 
