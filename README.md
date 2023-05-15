@@ -63,4 +63,4 @@ _in above code we are using spacy and in output we can see that it is returning 
 ![image](https://user-images.githubusercontent.com/108387640/236673289-9a3329ca-6864-4e12-a05d-3900353ecc98.png)<br>
 _In above code we are using nltk and we can see that it is returning output of sentence in **string format**_
 
-#### For more details you can view my full jupyter file : https://github.com/meet5398/NLP-Natural-Language-Processing-/blob/d86419c9ceae6953b1696833025c7b4fecfcb6a2/Difference%20between%20Spacy%20and%20Nltk%20.ipynb
+#### For more topics and code you can view my full repository where I have also updated 6 projects on nlp :https://github.com/meet5398/NLP-Natural-Language-Processing-
